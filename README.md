@@ -1,24 +1,15 @@
-**[Preview](https://youtu.be/xuSjrBG-gRY)**
-**[Github](https://github.com/Rep-Scripts/rep-tablet)**
+**[Preview](https://www.youtube.com/watch?v=JIcUNFGUtRE)**
+**[Github](https://github.com/LRDevelopmennt/LR-Text)**
 
-_Discord Invite:_ https://discord.gg/VxGs8ceG5W
+_Discord Invite:_ https://discord.gg/JCsRKtRwAN
 
-_Tebex:_ https://rep.tebex.io/
+_Youtube:_ https://www.youtube.com/@LRDevelopment
 
-_Youtube:_ https://www.youtube.com/@repscripts
+_CFX:_ https://forum.cfx.re/t/free-qb-lr-text-qbcore/5209518
 
-_CFX:_ https://forum.cfx.re/u/bahnmifps/activity/topics
+> ## **CONTENT**
 
-> ## **INTRODUCTION**
-
-So, we make groups jobs. From the early versions of ps-playergroups since August 2022, to the latest qb-phone Nopixel inspired.
-
-However, these versions came with features that we didnt like, and 4 months later, we have released our own versions.
-
-The tablet is made so our customers who dont use qb-phone to enjoy our group jobs.
-
-**There are no jobs or anything included with these files.**
-**Check out the jobs at our Tebex.**
+LR Text is a simple application made mostly for roleplay servers, which helps you specify tasks.
 
 ---
 
