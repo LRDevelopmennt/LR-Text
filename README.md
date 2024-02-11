@@ -1,73 +1,28 @@
 **[Preview](https://www.youtube.com/watch?v=JIcUNFGUtRE)**
 **[Github](https://github.com/LRDevelopmennt/LR-Text)**
 
-_Discord Invite:_ https://discord.gg/JCsRKtRwAN
+_Discord:_ https://discord.gg/JCsRKtRwAN
 
-_Youtube:_ https://www.youtube.com/@LRDevelopment
+_YouTube:_ https://www.youtube.com/@LRDevelopment
 
 _CFX:_ https://forum.cfx.re/t/free-qb-lr-text-qbcore/5209518
 
-> ## **CONTENT**
+> ## **📜 • CONTENT**
 
 LR Text is a simple application made mostly for roleplay servers, which helps you specify tasks.
 
 ---
 
-> ## **FEATURES**
+> ## **🛠️ • SETUP**
 
-## **1. Job Center**
+Install the zip file.
 
-- Configurable jobs, job location, money, icon, people to work, etc...
-- Navigate to assigned location.
-- "Illegal jobs" can be seen using a VPN.
-- Search bar for jobs
+After downloading, open the “LR-Text-main.zip” and rename the folder named “LR-Text-main” inside the “LR-Text-main.zip” to “LR-Text”. Then put the folder named “LR-Text” into resources/[qb].
 
-## **2. Groups**
-
-- Once signed in to jobs, players can see idle/busy groups.
-- Can create groups with up to 4 members.
-- If has VPN, players names will be automatically generated to cover their identity.
-
-## **3. Syncing**
-
-- Sync job progress between players.
-- Sync notifications and job details.
+Open the “server.cfg” and type “ensure LR-Text”.
 
 ---
 
-> ## **INSTALLATION**
+> ## **📁 • DEPENDENCIES**
 
-Drag and drop...
-
----
-
-> ## **🛠️ UPDATES**
-
-**Update 1.0**
-
-- Release
-
----
-
-**Update 1.1**
-
-- _to be updated_
-
----
-
-> ## **DEPENDENCIES**
-
-- [QBcore Framework](https://github.com/qbcore-framework)
-- [ESX](https://github.com/esx-framework)
-- [PS- Ui] https://github.com/Project-Sloth/ps-ui
-
----
-
-> ## **Check out our other products** :star2:
-
-- [[QB/ESX] Group Postal Op Delivery. NoPixel 3.5 DoDo Inspired](https://forum.cfx.re/t/qb-esx-group-postal-op-delivery-nopixel-3-5-dodo-inspired/4894624/29)
-- [NoPixel Inspired Group Sanitation Job v2](https://forum.cfx.re/t/nopixel-inspired-group-sanitation-job-v2/4929184/5)
-- [NoPixel Inspired Oxy Run w/ Money Laundering](https://forum.cfx.re/t/nopixel-inspired-oxy-run-w-money-laundering/4941107/10)
-- [NoPixel Inspired Chop Shop. With Phone Progresses!](https://forum.cfx.re/t/nopixel-inspired-chop-shop-with-phone-progresses/4942864/5)
-- [[PAID] [QBCORE] Advanced Realistic Trunk Space](https://forum.cfx.re/t/paid-qbcore-advanced-realistic-trunk-space/4891965/2)
-- [[RELEASE] [PAID] QBCore Realistic Vehiclekey with Hacking Device](https://forum.cfx.re/t/release-paid-qbcore-realistic-vehiclekey-with-hacking-device/4891955/10)
+- [QBcore](https://github.com/qbcore-framework)
