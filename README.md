@@ -17,6 +17,16 @@ LR Text is a simple application made mostly for roleplay servers, which helps yo
 
 ---
 
+> ## **❓ • HOW DOES IT WORK?**
+
+> **Open Text:**
+> export["lr-text"]:openText("This is test", "Hello this is test if you close this text lrtextclose") 
+
+> **Close Text**
+> export["lr-text"]:closeText()
+
+---
+
 > ## **📁 • DEPENDENCIES**
 
 - [QBcore](https://github.com/qbcore-framework)
