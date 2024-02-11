@@ -21,24 +21,13 @@ LR Text is a simple application made mostly for roleplay servers, which helps yo
 
 > **Open Text:**
 > ```lua
-  >QBCore.Functions.Progressbar("random_task", "Doing something", 5000, false, true, {
-  >    disableMovement = false,
-  >    disableCarMovement = false,
-  >    disableMouse = false,
-  >    disableCombat = true,
-  >}, {
-  >    animDict = "mp_suicide",
-  >    anim = "pill",
-  >    flags = 49,
-  >}, {}, {}, function()
-  >    -- Done
-  >end, function()
-  >    -- Cancel
- >end)
+> exports["LR-text"]:openText("This is test", "Hello this is test if you close this text lrtextclose.")
 > ``` 
 
 > **Close Text**
-> export["lr-text"]:closeText()
+> ```lua
+> exports["LR-text"]:closeText()
+> ```
 
 ---
 
