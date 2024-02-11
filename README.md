@@ -23,6 +23,6 @@ LR Text is a simple application made mostly for roleplay servers, which helps yo
 
 > ## **🌐 • SOCIALS**
 
-🌐 • _Discord:_ https://discord.gg/JCsRKtRwAN
-🌐 • _YouTube:_ https://www.youtube.com/@LRDevelopment
-🌐 • _CFX:_ https://forum.cfx.re/t/free-qb-lr-text-qbcore/5209518
+- 🌐 • _Discord:_ https://discord.gg/JCsRKtRwAN
+- 🌐 • _YouTube:_ https://www.youtube.com/@LRDevelopment
+- 🌐 • _CFX:_ https://forum.cfx.re/t/free-qb-lr-text-qbcore/5209518
